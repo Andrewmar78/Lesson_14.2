@@ -1,1 +1,1 @@
-path = "/home/andrew/PycharmProjects/pythonProject/Curse_3/Lesson_14.2/netflix.db"
+path = "/Users/andre/PycharmProjects/Lesson_14.2/netflix.db"
